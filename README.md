@@ -1,2 +1,2 @@
 # Machine_Learning_Lessons
-Machine Learning SL Lessons
+Machine Learning Lessons Notebook
